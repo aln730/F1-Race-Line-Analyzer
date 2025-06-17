@@ -12,3 +12,6 @@ A computer vision tool that analyzes an F1 driver’s racing line using onboard 
 - Analyze driver efficiency: apex deviation, curvature, smoothness
 - Visualize real vs. ideal lines on the track map
 - Generate heatmaps for inefficient zones
+
+![demoplan](https://github.com/user-attachments/assets/4994d864-fc04-484c-a934-eb7e77fa1814)
+
